@@ -1,4 +1,9 @@
 {
+    "users": {
+        "userName": "rohith",
+        "emailId": "rohith@gmail.com",
+        "mobileNumber": "8888855555"
+    },
     "flights": [
         {
             "flightBrand": "Air India",
