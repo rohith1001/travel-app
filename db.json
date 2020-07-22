@@ -1,0 +1,53 @@
+{
+    "users": {
+        "userName": "rohith",
+        "emailId": "rohith@gmail.com",
+        "mobileNumber": "8888855555"
+    },
+    "flights": [
+        {
+            "flightBrand": "Air India",
+            "flightId": "e88e7043-b306-4882-9b81-42152ffa207b",
+            "flightTime": "2020-07-18T15:30:00Z[UTC]",
+            "fromCity": "Bengaluru",
+            "seatsFilled": 0,
+            "toCity": "Mumbai",
+            "totalSeats": 340
+        },
+        {
+            "flightBrand": "Air India",
+            "flightId": "188e7043-b306-4882-9b81-42152ffa207b",
+            "flightTime": "2020-07-18T15:30:00Z[UTC]",
+            "fromCity": "Bengaluru",
+            "seatsFilled": 0,
+            "toCity": "Mumbai",
+            "totalSeats": 340
+        },
+        {
+            "flightBrand": "Air India",
+            "flightId": "288e7043-b306-4882-9b81-42152ffa207b",
+            "flightTime": "2020-07-18T15:30:00Z[UTC]",
+            "fromCity": "Bengaluru",
+            "seatsFilled": 0,
+            "toCity": "Mumbai",
+            "totalSeats": 340
+        }
+    ],
+    "trip": {
+        "userId": "geetha",
+        "tripBookingDate": "2020-07-18T15:30:00Z[UTC]",
+        "tripType": "one-way"
+    },
+    "groupMember": {
+        "tripId": "e88e7043-b306-4882-9b81-42152ffa207b",
+        "name": "geetha",
+        "sex": "female",
+        "contact": "9448871273",
+        "address": "Bengaluru"
+    },
+    "memberSeatMapping": {
+        "groupMemberId": "ee86d0e5-dfff-464a-b253-3d0d3b667e7b",
+        "flightId": "4b54d7fe-09da-4913-9962-dd59d10aaab9",
+        "seatNumber": "0"
+    }
+}
